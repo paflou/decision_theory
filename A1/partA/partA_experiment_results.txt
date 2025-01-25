@@ -1,0 +1,48 @@
+Προσπαθεια με τιμες yesterday, yesterday2
+Root Mean Square Error on train data:           0.5783800478450056
+Mean Absolute Error on train data:              0.35462341942133163
+Mean Squared Error on train data:               0.3345234797451906
+Root Mean Square Error on validation data:      1.3204617395967153
+Mean Absolute Error on validation data:         1.005475215398813
+Mean Squared Error on validation data:          1.743619205738784
+
+Προσπαθεια με τιμες yesterday, yesterday2, weeklyAvg
+Root Mean Square Error on train data:           0.43205924296357595
+Mean Absolute Error on train data:              0.27177373534693555
+Mean Squared Error on train data:               0.18667518943025754
+Root Mean Square Error on validation data:      0.9949975423185624
+Mean Absolute Error on validation data:         0.745646562735748
+Mean Squared Error on validation data:          0.99002010921998
+
+Προσπαθεια με τιμες yesterday, yesterday2, weeklyAvg, monthlyAvg
+Root Mean Square Error on train data:           0.4244250171703038
+Mean Absolute Error on train data:              0.26852424988506335
+Mean Squared Error on train data:               0.18013659520001285
+Root Mean Square Error on validation data:      0.9748908901805382
+Mean Absolute Error on validation data:         0.7334033053177675
+Mean Squared Error on validation data:          0.9504122477570016
+
+Προσπαθεια με τιμες yesterday, yesterday2, yesterday3
+Root Mean Square Error on train data:           0.45741159792082603
+Mean Absolute Error on train data:              0.27854395584203434
+Mean Squared Error on train data:               0.2092253699124838
+Root Mean Square Error on validation data:      1.1190172968700298
+Mean Absolute Error on validation data:         0.8096926986391547
+Mean Squared Error on validation data:          1.2521997106943084
+
+
+Προσπαθεια με τιμες yesterday, yesterday2, weeklyAvg, yesterday3
+Root Mean Square Error on train data:           0.3460692413267218
+Mean Absolute Error on train data:              0.2195077668264684
+Mean Squared Error on train data:               0.1197639197924533
+Root Mean Square Error on validation data:      0.8495481799162663
+Mean Absolute Error on validation data:         0.6208225441135953
+Mean Squared Error on validation data:          0.7217321099990411
+
+Προσπαθεια με τιμες yesterday, yesterday2, weeklyAvg, yesterday3, >2020
+Root Mean Square Error on train data:           0.6589731515886386
+Mean Absolute Error on train data:              0.49463881717007363
+Mean Squared Error on train data:               0.4342456145146624
+Root Mean Square Error on validation data:      0.8537146124455577
+Mean Absolute Error on validation data:         0.6288538915355353
+Mean Squared Error on validation data:          0.7288286395030692
